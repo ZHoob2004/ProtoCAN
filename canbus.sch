@@ -267,4 +267,58 @@ F 3 "" H 3450 4050 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3450 3800 3450 4050
+NoConn ~ 3850 3550
+$Comp
+L R R?
+U 1 1 59E49315
+P 5150 4000
+F 0 "R?" V 5230 4000 50  0000 C CNN
+F 1 "1k" V 5150 4000 50  0000 C CNN
+F 2 "" V 5080 4000 50  0001 C CNN
+F 3 "" H 5150 4000 50  0001 C CNN
+	1    5150 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 3750 5150 3750
+Wire Wire Line
+	5150 3750 5150 3850
+$Comp
+L GND #PWR?
+U 1 1 59E4A43B
+P 5150 4450
+F 0 "#PWR?" H 5150 4200 50  0001 C CNN
+F 1 "GND" H 5150 4300 50  0000 C CNN
+F 2 "" H 5150 4450 50  0001 C CNN
+F 3 "" H 5150 4450 50  0001 C CNN
+	1    5150 4450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5150 4450 5150 4150
+Text Label 5350 3150 2    60   ~ 0
+INT
+Wire Wire Line
+	5050 3150 5350 3150
+NoConn ~ 5050 3650
+NoConn ~ 5050 3550
+NoConn ~ 5050 3450
+NoConn ~ 5050 3350
+NoConn ~ 5050 3250
+Text Label 3550 2550 0    60   ~ 0
+SI
+Text Label 3550 2650 0    60   ~ 0
+SO
+Text Label 3550 2750 0    60   ~ 0
+CS
+Text Label 3550 2850 0    60   ~ 0
+SCK
+Wire Wire Line
+	3550 2850 3850 2850
+Wire Wire Line
+	3850 2750 3550 2750
+Wire Wire Line
+	3550 2650 3850 2650
+Wire Wire Line
+	3850 2550 3550 2550
 $EndSCHEMATC
