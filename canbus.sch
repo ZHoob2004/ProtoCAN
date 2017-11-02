@@ -31,6 +31,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:MCP2515-E.SO
 LIBS:canbus-cache
 EELAYER 25 0
 EELAYER END
@@ -55,17 +56,6 @@ F 1 "MCP2562-H/SN" H 6300 3350 50  0000 L CNN
 F 2 "Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm" H 6200 2500 50  0001 C CIN
 F 3 "" H 6200 3000 50  0001 C CNN
 	1    6200 3000
-	1    0    0    -1  
-$EndComp
-$Comp
-L MCP2515-E/ST U1
-U 1 1 59E4354F
-P 4450 3150
-F 0 "U1" H 4050 3925 50  0000 R CNN
-F 1 "MCP2515-E/SO" H 5200 3950 50  0000 R TNN
-F 2 "soic-18:SOIC-18" H 4450 2250 50  0001 C CIN
-F 3 "" H 4550 2350 50  0001 C CNN
-	1    4450 3150
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -232,11 +222,11 @@ Text Label 3550 2750 0    60   ~ 0
 CS
 Text Label 3550 2850 0    60   ~ 0
 SCK
-Text Label 1800 2550 0    60   ~ 0
+Text Label 1800 2750 0    60   ~ 0
 SI
 Text Label 1800 2650 0    60   ~ 0
 SO
-Text Label 1800 2750 0    60   ~ 0
+Text Label 1800 2550 0    60   ~ 0
 CS
 Text Label 1800 2850 0    60   ~ 0
 SCK
@@ -563,4 +553,15 @@ NoConn ~ 9800 1950
 NoConn ~ 9900 1950
 NoConn ~ 10000 1950
 NoConn ~ 10100 1950
+$Comp
+L MCP2515-E/SO U1
+U 1 1 59FB61DC
+P 4450 3150
+F 0 "U1" H 4050 3925 50  0000 R CNN
+F 1 "MCP2515-E/SO" H 5200 3950 50  0000 R TNN
+F 2 "soic-18:SOIC-18" H 4450 2250 50  0001 C CIN
+F 3 "" H 4550 2350 50  0001 C CNN
+	1    4450 3150
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
