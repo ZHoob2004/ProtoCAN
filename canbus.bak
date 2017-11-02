@@ -222,11 +222,11 @@ Text Label 3550 2750 0    60   ~ 0
 CS
 Text Label 3550 2850 0    60   ~ 0
 SCK
-Text Label 1800 2550 0    60   ~ 0
+Text Label 1800 2750 0    60   ~ 0
 SI
 Text Label 1800 2650 0    60   ~ 0
 SO
-Text Label 1800 2750 0    60   ~ 0
+Text Label 1800 2550 0    60   ~ 0
 CS
 Text Label 1800 2850 0    60   ~ 0
 SCK
