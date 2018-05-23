@@ -32,6 +32,147 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:MCP2515-E.SO
+LIBS:Accessories
+LIBS:Addressable_Specialty
+LIBS:Alarms_Buzzers_and_Sirens
+LIBS:Balun
+LIBS:Barrel-Audio_Connectors
+LIBS:Capacitive_Touch_Sensors_Proximity_Sensor_ICs
+LIBS:Clock-Timing-Clock_Generators_PLLs_Frequency_Synthesizers
+LIBS:Clock-Timing-Programmable_Timers_and_Oscillators
+LIBS:Clock-Timing-Real_Time_Clocks
+LIBS:Coaxial_Connectors_(RF)
+LIBS:Current_Transducers
+LIBS:Data_Acquisition-ADCs-DACs-Special_Purpose
+LIBS:Data_Acquisition-Analog_to_Digital_Converters_(ADC)
+LIBS:Data_Acquisition-Digital_Potentiometers
+LIBS:Data_Acquisition-Digital_to_Analog_Converters_(DAC)
+LIBS:Data_Acquisition-Touch_Screen_Controllers
+LIBS:DC_DC_Converters
+LIBS:Digital_Isolators
+LIBS:Diodes-Bridge_Rectifiers
+LIBS:Diodes-Rectifiers-Arrays
+LIBS:Diodes-Rectifiers-Single
+LIBS:Diodes-Zener-Single
+LIBS:Display_Modules-LED_Character_and_Numeric
+LIBS:D-Sub_Connectors
+LIBS:Embedded-Microcontrollers
+LIBS:Encoders
+LIBS:Evaluation_Boards-Embedded-MCU_DSP
+LIBS:Evaluation_Boards-Sensors
+LIBS:Ferrite_Beads_and_Chips
+LIBS:Fixed_Inductors
+LIBS:Fuses
+LIBS:Gas_Sensors
+LIBS:Humidity_Moisture_Sensors
+LIBS:Image_Sensors_Camera
+LIBS:Infrared_UV_Visible_Emitters
+LIBS:Inrush_Current_Limiters_(ICL)
+LIBS:Interface-Analog_Switches_Multiplexers_Demultiplexers
+LIBS:Interface-Analog_Switches-Special_Purpose
+LIBS:Interface-Controllers
+LIBS:Interface-Drivers_Receivers_Transceivers
+LIBS:Interface-I-O_Expanders
+LIBS:Interface-Modules
+LIBS:Interface-Sensor_and_Detector_Interfaces
+LIBS:Interface-Specialized
+LIBS:LED_Indication-Discrete
+LIBS:LEDs-Circuit_Board_Indicators_Arrays_Light_Bars_Bar_Graphs
+LIBS:Linear-Amplifiers-Audio
+LIBS:Linear-Amplifiers-Instrumentation_OP_Amps_Buffer_Amps
+LIBS:Linear-Comparators
+LIBS:Logic-Buffers_Drivers_Receivers_Transceivers
+LIBS:Logic-Flip_Flops
+LIBS:Logic-Gates_and_Inverters
+LIBS:Logic-Multivibrators
+LIBS:Logic-Shift_Registers
+LIBS:Logic-Signal_Switches_Multiplexers_Decoders
+LIBS:Logic-Translators_Level_Shifters
+LIBS:Magnetic_Sensors-Compass_Magnetic_Field_(Modules)
+LIBS:Magnetic_Sensors-Linear_Compass_(ICs)
+LIBS:Magnetic_Sensors-Switches_(Solid_State)
+LIBS:Memory_Connectors-PC_Card_Sockets
+LIBS:Microphones
+LIBS:Modular_Connectors-Jacks
+LIBS:Modular_Connectors-Jacks_With_Magnetics
+LIBS:Motion_Sensors-Accelerometers
+LIBS:Motion_Sensors-IMUs_(Inertial_Measurement_Units)
+LIBS:Motion_Sensors-Tilt_Switches
+LIBS:Navigation_Switches_Joystick
+LIBS:Optical_Sensors-Ambient_Light_IR_UV_Sensors
+LIBS:Optical_Sensors-Photo_Detectors-Remote_Receiver
+LIBS:Optical_Sensors-Photodiodes
+LIBS:Optical_Sensors-Photointerrupters-Slot_Type-Logic_Output
+LIBS:Optical_Sensors-Phototransistors
+LIBS:Optical_Sensors-Reflective-Analog_Output
+LIBS:Optoisolators-Logic_Output
+LIBS:Optoisolators-Transistor_Photovoltaic_Output
+LIBS:Optoisolators-Triac_SCR_Output
+LIBS:Oscillators
+LIBS:PMIC-AC_DC_Converters_Offline_Switchers
+LIBS:PMIC-Battery_Chargers
+LIBS:PMIC-Battery_Management
+LIBS:PMIC-Current_Regulation-Management
+LIBS:PMIC-Full_Half-Bridge_Drivers
+LIBS:PMIC-Gate_Drivers
+LIBS:PMIC-LED_Drivers
+LIBS:PMIC-Motor_Drivers_Controllers
+LIBS:PMIC-OR_Controllers_Ideal_Diodes
+LIBS:PMIC-Power_Distribution_Switches_Load_Drivers
+LIBS:PMIC-Power_Management-Specialized
+LIBS:PMIC-RMS_to_DC_Converters
+LIBS:PMIC-Supervisors
+LIBS:PMIC-Thermal_Management
+LIBS:PMIC-V-F_and_F-V_Converters
+LIBS:PMIC-Voltage_Reference
+LIBS:PMIC-Voltage_Regulators-DC_DC_Switching_Controllers
+LIBS:PMIC-Voltage_Regulators-DC_DC_Switching_Regulators
+LIBS:PMIC-Voltage_Regulators-Linear
+LIBS:PMIC-Voltage_Regulators-Special_Purpose
+LIBS:Power_Relays_Over_2_Amps
+LIBS:Pressure_Sensors_Transducers
+LIBS:Programmable_Oscillators
+LIBS:Pushbutton_Switches
+LIBS:Rectangular_Connectors-Headers_Male_Pins
+LIBS:Resistor_Networks_Arrays
+LIBS:RF_Amplifiers
+LIBS:RF_Antennas
+LIBS:RF_Demodulators
+LIBS:RF_Detectors
+LIBS:RF_Evaluation_and_Development_Kits_Boards
+LIBS:RF_Receivers
+LIBS:RF_Switches
+LIBS:RF_Transceiver_ICs
+LIBS:RF_Transceiver_Modules
+LIBS:RF_Transmitters
+LIBS:RFID_RF_Access_Monitoring_ICs
+LIBS:Rotary_Potentiometers_Rheostats
+LIBS:Signal_Relays_Up_to_2_Amps
+LIBS:Slide_Switches
+LIBS:Sockets_for_ICs_Transistors
+LIBS:Solid_State_Relays
+LIBS:Specialized_ICs
+LIBS:Specialized_Sensors
+LIBS:Surge_Suppression_ICs
+LIBS:Tactile_Switches
+LIBS:Temperature_Sensors-Analog_and_Digital_Output
+LIBS:Thermal_Cutoffs_(Thermal_Fuses)
+LIBS:Thyristors-DIACs_SIDACs
+LIBS:Thyristors-SCRs
+LIBS:Thyristors-TRIACs
+LIBS:Toggle_Switches
+LIBS:Transistors-Bipolar_(BJT)-Arrays
+LIBS:Transistors-Bipolar_(BJT)-RF
+LIBS:Transistors-Bipolar_(BJT)-Single
+LIBS:Transistors-Bipolar_(BJT)-Single_Pre-Biased
+LIBS:Transistors-FETs_MOSFETs-Arrays
+LIBS:Transistors-FETs_MOSFETs-RF
+LIBS:Transistors-FETs_MOSFETs-Single
+LIBS:Transistors-JFETs
+LIBS:Trimmer_Potentiometers
+LIBS:TVS-Diodes
+LIBS:TVS-Mixed_Technology
+LIBS:USB_DVI_HDMI_Connectors
 LIBS:canbus-cache
 EELAYER 25 0
 EELAYER END
@@ -148,12 +289,12 @@ CANL
 $Comp
 L GND #PWR05
 U 1 1 59E47374
-P 3450 4050
-F 0 "#PWR05" H 3450 3800 50  0001 C CNN
-F 1 "GND" H 3450 3900 50  0000 C CNN
-F 2 "" H 3450 4050 50  0001 C CNN
-F 3 "" H 3450 4050 50  0001 C CNN
-	1    3450 4050
+P 3300 4100
+F 0 "#PWR05" H 3300 3850 50  0001 C CNN
+F 1 "GND" H 3300 3950 50  0000 C CNN
+F 2 "" H 3300 4100 50  0001 C CNN
+F 3 "" H 3300 4100 50  0001 C CNN
+	1    3300 4100
 	1    0    0    -1  
 $EndComp
 NoConn ~ 3850 3550
@@ -376,12 +517,12 @@ $EndComp
 $Comp
 L Crystal_GND24 Y1
 U 1 1 59E5B8A2
-P 3450 3600
-F 0 "Y1" H 3575 3800 50  0000 L CNN
-F 1 "Crystal_GND24" H 3575 3725 50  0000 L CNN
-F 2 "Crystals:Crystal_SMD_5032-4pin_5.0x3.2mm" H 3450 3600 50  0001 C CNN
-F 3 "" H 3450 3600 50  0001 C CNN
-	1    3450 3600
+P 3300 3600
+F 0 "Y1" H 3425 3800 50  0000 L CNN
+F 1 "Crystal_GND24" H 3425 3725 50  0000 L CNN
+F 2 "Crystals:Crystal_SMD_5032-4pin_5.0x3.2mm" H 3300 3600 50  0001 C CNN
+F 3 "" H 3300 3600 50  0001 C CNN
+	1    3300 3600
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -452,15 +593,15 @@ Wire Wire Line
 Wire Wire Line
 	6200 2300 6200 2600
 Wire Wire Line
-	3600 3600 3600 3450
+	3450 3600 3450 3450
 Wire Wire Line
-	3600 3450 3850 3450
+	3450 3450 3850 3450
 Wire Wire Line
-	3300 3600 3300 3350
+	3150 3600 3150 3350
 Wire Wire Line
-	3300 3350 3850 3350
+	3150 3350 3850 3350
 Wire Wire Line
-	3450 3800 3450 4050
+	3300 3800 3300 4100
 Wire Wire Line
 	5050 3750 5150 3750
 Wire Wire Line
@@ -530,14 +671,14 @@ Wire Wire Line
 	4200 5650 4550 5650
 Connection ~ 4300 5650
 Wire Wire Line
-	3450 3400 3450 3250
+	3300 3400 3300 3250
 Wire Wire Line
-	3450 3250 3200 3250
+	3300 3250 2750 3250
 Wire Wire Line
-	3200 3250 3200 3900
+	2750 3250 2750 3950
 Wire Wire Line
-	3200 3900 3450 3900
-Connection ~ 3450 3900
+	2750 3950 3600 3950
+Connection ~ 3300 3950
 Wire Wire Line
 	8900 1950 8900 2000
 Wire Wire Line
@@ -596,14 +737,44 @@ Wire Wire Line
 	10300 950  10300 1150
 Connection ~ 9600 2250
 $Comp
-L GND #PWR?
+L GND #PWR016
 U 1 1 59FCC298
 P 9600 2600
-F 0 "#PWR?" H 9600 2350 50  0001 C CNN
+F 0 "#PWR016" H 9600 2350 50  0001 C CNN
 F 1 "GND" H 9600 2450 50  0000 C CNN
 F 2 "" H 9600 2600 50  0001 C CNN
 F 3 "" H 9600 2600 50  0001 C CNN
 	1    9600 2600
 	1    0    0    -1  
 $EndComp
+$Comp
+L C C5
+U 1 1 5B05E18A
+P 3000 3800
+F 0 "C5" H 3025 3900 50  0000 L CNN
+F 1 "22uf" H 3025 3700 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3038 3650 50  0001 C CNN
+F 3 "" H 3000 3800 50  0001 C CNN
+	1    3000 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C6
+U 1 1 5B05E20B
+P 3600 3800
+F 0 "C6" H 3625 3900 50  0000 L CNN
+F 1 "22uf" H 3625 3700 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3638 3650 50  0001 C CNN
+F 3 "" H 3600 3800 50  0001 C CNN
+	1    3600 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 3650 3000 3600
+Wire Wire Line
+	3000 3600 3150 3600
+Wire Wire Line
+	3450 3600 3600 3600
+Wire Wire Line
+	3600 3600 3600 3650
 $EndSCHEMATC
